@@ -81,13 +81,13 @@ lib/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/products.png" width="45%" />
+  <img src="screenshots/homepage.png" width="250" />
+  <img src="screenshots/homepage2.png" width="250" />
 </p>
 
 <p align="center">
-  <img src="screenshots/product-detail.png" width="45%" />
-  <img src="screenshots/portfolio.png" width="45%" />
+  <img src="screenshots/splash.png" width="250" />
+  <img src="screenshots/product-details.png" width="250" />
 </p>
 
 ---
