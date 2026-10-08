@@ -110,7 +110,7 @@ The application focuses on:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MobinaFetrati/mahva-shop.git
+git clone https://github.com/CodeminTech/mahva-shop.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -149,25 +149,11 @@ flutter build windows
 
 ---
 
-## 🧑‍💻 Developer
+## 👩‍💻 Developer
 
-Developed with ❤️ using **Flutter & Dart**
+**CodemonTech**
 
-**Mobina Fetrati**
+Flutter Developer | Mobile Application Developer
 
-📌 Flutter Developer
-📱 Mobile Application Development
-💙 Flutter • Dart • UI Development
-
----
-
-## ⭐ Support
-
-If you find this project interesting, consider giving it a ⭐ on GitHub!
-
----
-
-<p align="center">
-  Made with 💙 using Flutter
-</p>
-```
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
